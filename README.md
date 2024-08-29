@@ -2,6 +2,9 @@
 
   ## Del Fondo Corporeishon ##
 
+  ![image](https://github.com/user-attachments/assets/5706ff00-83d5-4bdf-abbf-dd151676d71f)
+
+
 Trello: https://trello.com/b/07fy8CBm/del-fondo
 <!--
 **maximilianoboccuti/maximilianoboccuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
